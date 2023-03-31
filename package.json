@@ -9,6 +9,7 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "build": "cd client && npm run build"
   },
+  "heroku-run-build-script": true,
   "keywords": [],
   "author": "",
   "license": "ISC",
