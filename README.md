@@ -19,12 +19,17 @@ Book Search Engine
 <a name="installation"></a>
 ## 2. Installation
 
-None
+download:
+git clone https://git.heroku.com/book-search-engine-johnnycheng.git
+cd book-search-engine-johnnycheng
+npm run install
+npm run build
+npm run develop
 
 <a name="usage"></a>
 ## 3. Usage
 
-None
+https://www.youtube.com/watch?v=s3FXKPC3Ufw
 
 <a name="license"></a>
 ## 4. License
